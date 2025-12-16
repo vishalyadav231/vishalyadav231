@@ -1,5 +1,8 @@
                                                            Full-Stack Developer
 
+![Profile Views](https://komarev.com/ghpvc/?username=vishalyadav231&color=blueviolet)
+
+
 # 💫 About Me:   
 🔭 I’m currently working on Java Backend Development<br>👯 I’m looking to collaborate on Web Development and Open-Source projects<br>🌱 I’m currently learning AWT, Swing, and Spring Framework<br>💬 Ask me about HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap, Core Java, OS, CN, OOPs<br>⚡ Fun fact: I debug more than I code — and that’s where real learning happens 😄<br>🌐 You can see my work ( Portfolio ): https://vishalyadav231.github.io/Portfolio/<br>📫 Email: vishalyadav62029@gmail.com  <br>🔗 LinkedIn: https://linkedin.com/in/vishal-coder/ <br>🔗 LeetCode: https://leetcode.com/u/vishalyadav231/<br>
 
