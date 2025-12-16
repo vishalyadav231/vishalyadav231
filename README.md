@@ -4,19 +4,20 @@
 
 
 # 💫 About Me:   
-🔭 I’m currently working on Java Backend Development<br>👯 I’m looking to collaborate on Web Development and Open-Source projects<br>🌱 I’m currently learning AWT, Swing, and Spring Framework<br>💬 Ask me about HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap, Core Java, OS, CN, OOPs<br>⚡ Fun fact: I debug more than I code — and that’s where real learning happens 😄<br>
+🔭 I’m currently working on Java Backend Development<br>👯 I’m looking to collaborate on Web Development and Open-Source projects<br>🌱 I’m currently learning AWT, Swing, and Spring Framework<br>💬 Ask me about HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap, Core Java, OS, CN, OOPs<br>⚡ Fun fact: I debug more than I code — and that’s where real learning happens 😄<br> 🔗 My Work ( Portfolio ): [https://linkedin.com/in/vishal-coder/](https://vishalyadav231.github.io/Portfolio/) 
 
 
-## 🌐 Socials:
+## 🌐 Get in Touch:
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&logoWidth=18)](https://www.facebook.com/profile.php?id=100072961773243)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=18)](https://www.instagram.com/nitish_0191/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=18)](https://www.linkedin.com/in/vishal-coder/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&logoWidth=18)](https://medium.com/@vishalyadav231)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white&logoWidth=18)](https://x.com/VishalYada87352)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=18)](mailto:vishalyadav62029@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&logoWidth=18)](https://leetcode.com/vishalyadav231/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white&logoWidth=18)](https://vishalyadav231.github.io/Portfolio/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100072961773243)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/nitish_0191/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-coder/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@vishalyadav231)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=X&logoColor=white)](https://x.com/VishalYada87352)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vishalyadav62029@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/vishalyadav231/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2E8B57?style=flat-square&logo=google-chrome&logoColor=white)](https://vishalyadav231.github.io/Portfolio/)
+
 
 
 
